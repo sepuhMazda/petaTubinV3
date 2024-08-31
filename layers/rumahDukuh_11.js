@@ -1,0 +1,1 @@
+var json_rumahDukuh_11 = {"type":"FeatureCollection","name":"rumahDukuh_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[110.238525850618558,-7.90806943368601]}}]}

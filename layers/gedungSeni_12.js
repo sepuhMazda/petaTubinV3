@@ -1,0 +1,1 @@
+var json_gedungSeni_12 = {"type":"FeatureCollection","name":"gedungSeni_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null},"geometry":{"type":"Point","coordinates":[110.239672357166526,-7.915343260605643]}}]}
